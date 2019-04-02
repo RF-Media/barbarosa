@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/barbarosa/precache-manifest.10ef9ec2109bad78f35a7d171da1b4a3.js"
+  "/barbarosa/precache-manifest.c11bb5a6ac9dd3d77d5d8b8cd9317d5b.js"
 );
 
 workbox.clientsClaim();
