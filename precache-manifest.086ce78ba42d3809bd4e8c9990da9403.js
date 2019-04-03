@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/barbarosa/static/media/feature-3.a4bcec47.svg"
   },
   {
-    "revision": "1fcfb018ab8499848e1d",
-    "url": "/barbarosa/static/js/main.3be1e1f3.chunk.js"
+    "revision": "48fb2dc18a0b4125fbda",
+    "url": "/barbarosa/static/js/main.54df2756.chunk.js"
   },
   {
-    "revision": "976f8ff118e16f9f2f3c4d83f7ca04ea",
-    "url": "/barbarosa/static/media/mx.976f8ff1.png"
+    "revision": "09e9578f1d41eada0d63f9d643f7d8c4",
+    "url": "/barbarosa/static/media/credit-cards.09e9578f.svg"
   },
   {
     "revision": "ea08f70ae7558a3a9b66cd9b78a898c4",
@@ -64,11 +64,15 @@ self.__precacheManifest = [
     "url": "/barbarosa/static/media/welcome-background.2acb8532.png"
   },
   {
-    "revision": "ea3362cd1f561049cfb9",
-    "url": "/barbarosa/static/js/2.3baab5ca.chunk.js"
+    "revision": "976f8ff118e16f9f2f3c4d83f7ca04ea",
+    "url": "/barbarosa/static/media/mx.976f8ff1.png"
   },
   {
-    "revision": "0fa53e77e062188f4c7fd4b1f7eb7693",
+    "revision": "b20408c742fd906896ac",
+    "url": "/barbarosa/static/js/2.e89ef573.chunk.js"
+  },
+  {
+    "revision": "3c719b3760868f14f3c3e67d9c39386b",
     "url": "/barbarosa/index.html"
   }
 ];
