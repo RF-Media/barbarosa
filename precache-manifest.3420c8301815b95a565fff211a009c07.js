@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/barbarosa/static/media/feature-3.a4bcec47.svg"
   },
   {
-    "revision": "2c178263a7805fb09065",
-    "url": "/barbarosa/static/js/main.0ec6c7d3.chunk.js"
+    "revision": "d9a2ef2da77f3aa4d720",
+    "url": "/barbarosa/static/js/main.606babf7.chunk.js"
   },
   {
     "revision": "09e9578f1d41eada0d63f9d643f7d8c4",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/barbarosa/static/js/2.e89ef573.chunk.js"
   },
   {
-    "revision": "65e37ff397e68710526319ae8b84f943",
+    "revision": "c06093c802afb5e2b1a0a19a80e67d41",
     "url": "/barbarosa/index.html"
   }
 ];
