@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/barbarosa/static/media/feature-3.a4bcec47.svg"
   },
   {
-    "revision": "48fb2dc18a0b4125fbda",
-    "url": "/barbarosa/static/js/main.54df2756.chunk.js"
+    "revision": "2c178263a7805fb09065",
+    "url": "/barbarosa/static/js/main.0ec6c7d3.chunk.js"
   },
   {
     "revision": "09e9578f1d41eada0d63f9d643f7d8c4",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/barbarosa/static/media/feature-4.80c89b12.svg"
   },
   {
-    "revision": "032edb9909770a12d4825889608b1dbb",
-    "url": "/barbarosa/static/media/feature-8.032edb99.svg"
+    "revision": "26e8cf60ee260784d8384da4818ca374",
+    "url": "/barbarosa/static/media/feature-8.26e8cf60.svg"
   },
   {
     "revision": "842071405144d56adae83cf14efd6250",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/barbarosa/static/js/2.e89ef573.chunk.js"
   },
   {
-    "revision": "3c719b3760868f14f3c3e67d9c39386b",
+    "revision": "65e37ff397e68710526319ae8b84f943",
     "url": "/barbarosa/index.html"
   }
 ];
