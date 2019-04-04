@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1214937256d1944b5540af48095b380a",
-    "url": "/barbarosa/static/media/feature-6.12149372.svg"
+    "revision": "a4bcec4721da46c58f6517d18fba69e0",
+    "url": "/barbarosa/static/media/feature-3.a4bcec47.svg"
   },
   {
-    "revision": "36b0d95e828c455cfcd8",
-    "url": "/barbarosa/static/js/main.853cc9c5.chunk.js"
+    "revision": "0d468065dc9138719679",
+    "url": "/barbarosa/static/js/main.b55444ea.chunk.js"
   },
   {
     "revision": "09e9578f1d41eada0d63f9d643f7d8c4",
@@ -36,16 +36,16 @@ self.__precacheManifest = [
     "url": "/barbarosa/static/media/feature-1.84207140.svg"
   },
   {
-    "revision": "a4bcec4721da46c58f6517d18fba69e0",
-    "url": "/barbarosa/static/media/feature-3.a4bcec47.svg"
+    "revision": "6ce132a46cc81fa48f9e",
+    "url": "/barbarosa/static/js/runtime~main.e59d00bf.js"
   },
   {
     "revision": "1f32d817b9480ec11e33a94e7cdc5ab4",
     "url": "/barbarosa/static/media/feature-5.1f32d817.svg"
   },
   {
-    "revision": "6ce132a46cc81fa48f9e",
-    "url": "/barbarosa/static/js/runtime~main.e59d00bf.js"
+    "revision": "1214937256d1944b5540af48095b380a",
+    "url": "/barbarosa/static/media/feature-6.12149372.svg"
   },
   {
     "revision": "935e36dbe6bb76cef58ee3789488839d",
@@ -54,18 +54,6 @@ self.__precacheManifest = [
   {
     "revision": "60e28aaadcf8114c1769141a65d703ca",
     "url": "/barbarosa/static/media/feature-9.60e28aaa.svg"
-  },
-  {
-    "revision": "81ecd657882beeafbf0d2d42d256c04c",
-    "url": "/barbarosa/static/media/feature-2-white.81ecd657.svg"
-  },
-  {
-    "revision": "34a102bffb9f7edc64a0cb279a354dee",
-    "url": "/barbarosa/static/media/feature-4-white.34a102bf.svg"
-  },
-  {
-    "revision": "636d33aec162e661176e977e1d45fe63",
-    "url": "/barbarosa/static/media/feature-8-white.636d33ae.svg"
   },
   {
     "revision": "8783be4b964b6a0f48fc2bffba0cc930",
@@ -80,11 +68,11 @@ self.__precacheManifest = [
     "url": "/barbarosa/static/media/mx.976f8ff1.png"
   },
   {
-    "revision": "3fe1b25f991f0ff7b372",
-    "url": "/barbarosa/static/js/2.5b013b1a.chunk.js"
+    "revision": "b20408c742fd906896ac",
+    "url": "/barbarosa/static/js/2.e89ef573.chunk.js"
   },
   {
-    "revision": "fe3f61dfcf8b83317f29cba431924d10",
+    "revision": "6d2cc1bdf56675108c1d0fe7dd71b884",
     "url": "/barbarosa/index.html"
   }
 ];
